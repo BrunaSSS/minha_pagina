@@ -31,3 +31,9 @@
     color: white;
     text-align: center;
 }
+
+.image{
+    border-radius: 50%;
+    width: 150px;
+    
+}
